@@ -1,0 +1,21 @@
+name,email,course,status,enrolled_date
+  JOHN SMITH , JOHN.SMITH@EMAIL.COM , Data Analytics , enrolled ,2026-09-01
+Priya Kumar,priya.kumar@email.com,UI/UX Design,ENROLLED,2026-09-02
+  Ahmed Rahman,ahmed.rahman@email.com ,Python Basics, enrolled,2026-09-03
+Meena Devi,,Digital Marketing,enrolled,2026-09-04
+Arun Kumar,ARUN.KUMAR@EMAIL.COM,Python Basics,pending,2026-09-05
+John Smith,john.smith@email.com,Data Analytics,ENROLLED,2026-09-01
+  KAVYA RAJ  ,kavya.raj@email.com, ui/ux design ,Enrolled,2026-09-06
+Mohamed Ismail,mohamed.ismail@email.com,Data Analytics,completed,2026-09-07
+Divya S,divya.s@email.com ,Digital Marketing, enrolled ,2026-09-08
+SURESH BALAJI,suresh.balaji@email.com,Python Basics,ENROLLED,2026-09-09
+Nisha Thomas,nisha.thomas@email.com,UI/UX Design,pending,2026-09-10
+Priya Kumar ,PRIYA.KUMAR@EMAIL.COM, UI/UX Design ,enrolled,2026-09-02
+Vijay Anand,vijay.anand@email.com,Data Analytics, enrolled,2026-09-11
+Farah Ali,farah.ali@email.com,Digital Marketing,ENROLLED,2026-09-12
+Karthik Raj,karthik.raj@email.com,Python Basics,enrolled,2026-09-13
+  Lakshmi Narayan ,lakshmi.narayan@email.com, UI/UX Design,withdrawn,2026-09-14
+Ravi Teja,ravi.teja@email.com,Data Analytics,Enrolled,2026-09-15
+  ANJALI MENON,anjali.menon@email.com ,Digital Marketing, enrolled ,2026-09-16
+,blank.name@email.com,Python Basics,enrolled,2026-09-17
+Sana Fathima,sana.fathima@email.com,Data Analytics, enrolled,2026-09-18
